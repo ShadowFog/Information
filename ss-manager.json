@@ -1,6 +1,6 @@
 {
-    "ss-manager-host": "https://pear.hk:20443/v1",
-    "ss-manager-version": "1",
-    "ss-manager-url": "https://pear.hk:20443/v1",
-    "ss-manager-md5": "de468c53529c0b70a1a2c3d8c5b60468",
+    "shadowfog_host": "https://pear.hk:20443/v1",
+    "shadowfog_version": "1",
+    "shadowfog_url": "https://pear.hk:20443/v1",
+    "shadowfog_md5": "de468c53529c0b70a1a2c3d8c5b60468",
 }
