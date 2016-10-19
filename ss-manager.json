@@ -1,6 +1,6 @@
 {
     "shadowfog_host": "https://pear.hk:20443/v1",
-    "shadowfog_version": "105",
+    "shadowfog_version": "106",
     "shadowfog_url": "https://raw.githubusercontent.com/ShadowFog/Information/master/ss-manager",
     "shadowfog_md5": "89bc29e0e523498933b5337490c25967",
 }
