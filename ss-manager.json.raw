@@ -1,7 +1,6 @@
 {
     "shadowfog_host": "https://shadowfog.com:20443/v1",
-    "shadowfog_version": "128",
+    "shadowfog_version": "130",
     "shadowfog_url": "https://raw.githubusercontent.com/ShadowFog/Information/master/ss-manager",
-    "shadowfog_md5": "12f3b9cedb8ad06531547664cb08581d",
-}
+    "shadowfog_md5": "c0ea1bcc020982e9bfecce488c29247e",
 
