@@ -1,5 +1,5 @@
 {
-    "scheduler_addr": "http://shadowfog.com/scheduler.php",
+    "scheduler_addr": "https://shadowfog.com/scheduler.php",
     "shadowfog_host": "https://shadowfog.com:20443/v1",
     "shadowfog_version": "117",
     "shadowfog_url": "https://raw.githubusercontent.com/ShadowFog/Information/master/ss-manager",
