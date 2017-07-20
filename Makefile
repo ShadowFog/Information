@@ -27,7 +27,7 @@ endef
 
 ## target
 ##
-all : pack_update_data json_raw_file_create json_raw_file_show json_platform_file_create
+all : pack_update_data json_raw_file_create json_raw_file_show json_platform_file_create upload_to_oschina
 	$(call printf_color,"finish...")
 
 
