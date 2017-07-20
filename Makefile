@@ -13,7 +13,8 @@ signal_wss ?= "wss://signal.webrtc.win:7601/ws"
 
 version ?= "165"
 
-url ?= "https://git.oschina.net/FogVDN/Node-update/raw/master"
+#url ?= "https://git.oschina.net/FogVDN/Node-update/raw/master"
+url ?= "https://update.webrtc.win"
 
 update_data_dirs_name=$(patsubst update-data/%/,%,$(shell ls -d update-data/*/))
 
@@ -72,6 +73,7 @@ upload_to_server:
 
 upload_to_oschina:	
 	$(call printf_color,"[upload]")
+	rm -rf fog*.json.raw
 	git add . && git commit -m "update" && git push origin
 
 help :

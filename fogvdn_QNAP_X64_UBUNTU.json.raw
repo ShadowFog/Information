@@ -1,9 +1,0 @@
-{
-"fogvdn_force_update": "yes",
-"fogvdn_host": "https://api.webrtc.win:6401/v1",
-"fogvdn_signal_ws":"ws://signal.webrtc.win:7600/ws",
-"fogvdn_signal_wss":"wss://signal.webrtc.win:7601/ws",
-"fogvdn_version": "249",
-"fogvdn_url": "https://git.oschina.net/FogVDN/Node-update/raw/master/fogvdn_QNAP_X64_UBUNTU.tar.gz",
-"fogvdn_md5": "67a22b3708ad5573652e86a4044f2342"
-}
